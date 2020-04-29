@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="theme_color" format="color"/>
+
+    <attr name="separator_color" format="color"/>
+
+    <attr name="back_ground_color" format="color"/>
+
+    <attr name="vice_back_ground_color" format="color"/>
+
+    <attr name="text_color_under_bg" format="color"/>
+
+    <attr name="text_color_under_vice_bg" format="color"/>
+
+</resources>
